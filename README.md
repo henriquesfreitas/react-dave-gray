@@ -1,5 +1,5 @@
 # react-dave-gray
-React project based on dave's gray tutorial  
+React project based on Dave's Gray tutorial  
 https://www.youtube.com/watch?v=TeeAp5zkYnI&list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
 
 # Getting Started with Create React App
